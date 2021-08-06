@@ -1,2 +1,0 @@
-# funbin
-projet de recyclage 
